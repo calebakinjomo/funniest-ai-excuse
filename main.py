@@ -4,6 +4,9 @@
 Writes one line (at most 200 characters) to /output/entry.txt:
 the funniest excuse an AI agent gives after failing a task,
 spoken in the agent's own voice.
+
+Angle: the agent confesses with total confidence — it invented the folder,
+the drive, and the whole idea of saving, then realises none of it was real.
 """
 
 import os
